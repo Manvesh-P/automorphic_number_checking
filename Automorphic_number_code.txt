@@ -1,3 +1,18 @@
+'''
+A number is said to be an automorphic number if the given number appears in the end of the squared number.
+ex :- n = 6
+6 * 6 = 36
+if we square the given number then the last digit is same as the given number. so 6 is an automorphic number.
+
+ex 2:- n = 5
+5 * 5 = 25
+so 5 is an automorphic number.
+
+ex 3:- n = 25
+25 * 25 = 625
+here 25 is an automorphic number.
+'''
+
 n = int(input("enter the number"))
 
 q = n

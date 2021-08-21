@@ -1,4 +1,5 @@
 n = int(input("enter the number"))
+
 q = n
 rs = 0  
 while q != 0:     
